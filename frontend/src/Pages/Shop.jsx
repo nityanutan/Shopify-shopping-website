@@ -2,7 +2,7 @@ import Popular from "../Components/Popular/Popular"
 import Hero from "../Components/Hero/Hero"
 import Offers from "../Components/Offers/Offers"
 import NewCollections from "../Components/NewCollections/NewCollections"
-import Newsletter from "../Components/NewsLetter/Newsletter.jsx";
+import Newsletter from "../components/newsletter/Newsletter.jsx";
 import Footer from "../Components/Footer/Footer"
 
 
