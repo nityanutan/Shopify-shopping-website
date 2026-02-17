@@ -1,10 +1,9 @@
-import Popular from "../Components/Popular/Popular"
-import Hero from "../Components/Hero/Hero"
-import Offers from "../Components/Offers/Offers"
-import NewCollections from "../Components/NewCollections/NewCollections"
-import Newsletter from "../Components/Newsletter/Newsletter"
-import Footer from "../Components/Footer/Footer"
-
+import Popular from "../components/Popular/Popular"
+import Hero from "../components/Hero/Hero"
+import Offers from "../components/Offers/Offers"
+import NewCollections from "../components/NewCollections/NewCollections"
+import Newsletter from "../components/Newsletter/Newsletter"
+import Footer from "../components/Footer/Footer"
 
 const Shop = () => {
   return (
